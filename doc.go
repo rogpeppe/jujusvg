@@ -5,4 +5,4 @@
 // charm bundles or live environments.
 //
 // For more information, please refer to the README file in this directory.
-package jujusvg
+package jujusvg // import "gopkg.in/juju/jujusvg.v1"

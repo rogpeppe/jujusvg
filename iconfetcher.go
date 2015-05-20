@@ -1,4 +1,4 @@
-package jujusvg
+package jujusvg // import "gopkg.in/juju/jujusvg.v1"
 
 import (
 	"bytes"

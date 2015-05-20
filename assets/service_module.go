@@ -1,4 +1,4 @@
-package assets
+package assets // import "gopkg.in/juju/jujusvg.v1/assets"
 
 // This is the SVG for the service module block used in the bundle diagram.
 // Note that there MUST NOT be anything (processing instructions, xml

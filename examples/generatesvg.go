@@ -1,4 +1,4 @@
-package main
+package main // import "gopkg.in/juju/jujusvg.v1/examples"
 
 // This is a demo application that uses the jujusvg library to build a bundle SVG
 // from a given bundle.yaml file.
